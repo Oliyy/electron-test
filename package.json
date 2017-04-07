@@ -1,0 +1,25 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "A test app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "keywords": [
+    "jek",
+    "mom",
+    "fat",
+    "lol"
+  ],
+  "author": "oliy, jek",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme"
+}
